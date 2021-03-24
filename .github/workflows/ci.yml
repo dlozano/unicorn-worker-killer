@@ -5,10 +5,10 @@ on:
       - main
       - master
       - '*v'
-      - '*'
+      - '**'
   pull_request:
     branches:
-      - '*'
+      - '**'
 jobs:
   test:
     name: 'Ruby: ${{ matrix.ruby }}'
