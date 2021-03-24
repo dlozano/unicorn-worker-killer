@@ -1,3 +1,7 @@
+Release 0.4.6 - 2021/03/24
+  * Update for Unicorn 6
+  * Update travis matrix
+
 Release 0.4.5 - 2018/01/09
   * Add rspec as development dependency
   * Restructure code
