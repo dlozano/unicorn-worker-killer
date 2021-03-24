@@ -5,7 +5,6 @@ on:
       - main
       - master
       - '*v'
-      - '**'
   pull_request:
     branches:
       - '**'
